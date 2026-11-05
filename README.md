@@ -1,5 +1,4 @@
 # AI-Based Campus Incident Intelligence & Response System
-**Academic Computer Science & Engineering Undergraduate Project**
 
 An intelligent campus incident management platform that transforms student natural-language problem reports into actionable operations intelligence. The system automatically classifies issues, estimates hazard severity, flags duplicate submissions, discovers recurring campus patterns using unsupervised DBSCAN clustering, maps location hotspots, and assists administrators via a natural-language analytics assistant.
 
